@@ -1,3 +1,4 @@
+<img width="1870" height="841" alt="PROFILE BANNER" src="https://github.com/user-attachments/assets/787bf68f-5696-4ea2-8c62-8e1a3baf37f9" />
 # 💫 About Me:
 # Hi, I'm Afrasyab Khan 👋<br><br>🎓 **Computer Science Student | UET Peshawar**<br>📚 Currently in my **3rd Semester** of Computer Science.<br><br>💻 I'm passionate about learning **Software Development, Flutter, Dart, and Programming**. I'm currently building projects to improve my development skills and gain practical experience.<br><br>🚀 I enjoy learning new technologies, creating projects, and continuously improving my coding skills.<br><br>### 🌱 Currently Learning<br><br>* Dart & Flutter<br>* Software Development<br>* Git & GitHub<br>* UI/UX and App Development<br><br>### 🎯 My Goal<br><br>To become a skilled software developer by continuously learning, building real-world projects, and improving my problem-solving skills.<br><br>> **Learning today, building tomorrow. 🚀**<br>
 
